@@ -1,6 +1,6 @@
 # Robot Core manual installation and execution
 
-Robot Core is a cross-platform version of Primo Robot
+Robot Core is a cross-platform version of Astro Robot
 
 **Ubuntu installation**
 
@@ -19,7 +19,7 @@ sudo apt install -y libgdiplus libc6 libc6-dev
 sudo apt install -y fontconfig libharfbuzz0b libfreetype6
 ```
 
-4\. Open robot folder and allow file Primo.Robot to be executable
+4\. Open robot folder and allow file Astro.Robot to be executable
 
 ![](<../../.gitbook/assets/image (265).png>)
 
@@ -30,6 +30,6 @@ sudo apt install -y fontconfig libharfbuzz0b libfreetype6
 &#x20; 6\.  Start robot using terminal. For example:
 
 ```
-./Primo.Robot instantStart noOrchestrator "projPath=/home/primo/Downloads/Core" "seqPath=/home/primo/Downloads/Core/Main.ltw"
+./Astro.Robot instantStart noOrchestrator "projPath=/home/astro/Downloads/Core" "seqPath=/home/astro/Downloads/Core/Main.ltw"
 
 ```
