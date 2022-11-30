@@ -28,7 +28,7 @@ List<string> att = app.GetAttribute("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\
 //Component link
 LTools.WebBrowser.Model.IElementInfo el = app.FindElement("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attributes\":[{\"Key\":\"CLASS\",\"Value\":\"textbox js-hide-label\"},{\"Key\":\"ID\",\"Value\":\"header-search-input\"}]}");
 att = app.GetAttribute(el, "title");		
-LTools.Workflow.PrimoApp.AddToLog(wf, att[0]);
+LTools.Workflow.AstroApp.AddToLog(wf, att[0]);
 
 Python
 app = LTools.WebBrowser.BrowserApp.Init(wf, "Free email*", LTools.WebBrowser.Model.BrowserTypes_Short.IE)
@@ -37,7 +37,7 @@ att = app.GetAttribute("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attributes\"
 #Component link
 el = app.FindElement("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attributes\":[{\"Key\":\"CLASS\",\"Value\":\"textbox js-hide-label\"},{\"Key\":\"ID\",\"Value\":\"header-search-input\"}]}");
 att = app.GetAttribute(el, "title");	
-LTools.Workflow.PrimoApp.AddToLog(wf, att[0])
+LTools.Workflow.AstroApp.AddToLog(wf, att[0])
 
 JavaScript
 var app = _lib.LTools.WebBrowser.BrowserApp.Init(wf, "Free email*", _lib.LTools.WebBrowser.Model.BrowserTypes_Short.IE);
@@ -46,5 +46,5 @@ var att = app.GetAttribute("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attribut
 //Component link
 var el = app.FindElement("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attributes\":[{\"Key\":\"CLASS\",\"Value\":\"textbox js-hide-label\"},{\"Key\":\"ID\",\"Value\":\"header-search-input\"}]}");
 att = app.GetAttribute(el, "title");	
-_lib.LTools.Workflow.PrimoApp.AddToLog(wf, att[0]);
+_lib.LTools.Workflow.AstroApp.AddToLog(wf, att[0]);
 ```
