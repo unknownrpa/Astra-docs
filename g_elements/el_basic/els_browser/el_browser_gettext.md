@@ -24,7 +24,7 @@ string txt = app.GetInnerText("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attri
 //Component link
 LTools.WebBrowser.Model.IElementInfo el = app.FindElement("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attributes\":[{\"Key\":\"CLASS\",\"Value\":\"textbox js-hide-label\"},{\"Key\":\"ID\",\"Value\":\"header-search-input\"}]}");
 txt = app.GetInnerText(el);		
-LTools.Workflow.PrimoApp.AddToLog(wf, txt);
+LTools.Workflow.AstroApp.AddToLog(wf, txt);
 
 Python
 app = LTools.WebBrowser.BrowserApp.Init(wf, "Free email*", LTools.WebBrowser.Model.BrowserTypes_Short.IE)
@@ -33,7 +33,7 @@ txt = app.GetInnerText("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attributes\"
 #Component link
 el = app.FindElement("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attributes\":[{\"Key\":\"CLASS\",\"Value\":\"textbox js-hide-label\"},{\"Key\":\"ID\",\"Value\":\"header-search-input\"}]}")
 txt = app.GetInnerText(el)
-LTools.Workflow.PrimoApp.AddToLog(wf, txt)
+LTools.Workflow.AstroApp.AddToLog(wf, txt)
 
 JavaScript
 var app = _lib.LTools.WebBrowser.BrowserApp.Init(wf, "Free email*", _lib.LTools.WebBrowser.Model.BrowserTypes_Short.IE);
@@ -42,5 +42,5 @@ var txt = app.GetInnerText("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attribut
 //Component link
 var el = app.FindElement("{\"Tag\":\"INPUT\",\"SearchFrames\":false,\"Attributes\":[{\"Key\":\"CLASS\",\"Value\":\"textbox js-hide-label\"},{\"Key\":\"ID\",\"Value\":\"header-search-input\"}]}");
 txt = app.GetInnerText(el);		
-_lib.LTools.Workflow.PrimoApp.AddToLog(wf, txt);
+_lib.LTools.Workflow.AstroApp.AddToLog(wf, txt);
 ```
