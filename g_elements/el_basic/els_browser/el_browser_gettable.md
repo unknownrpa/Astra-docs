@@ -32,7 +32,7 @@ LTools.WebBrowser.Model.IElementInfo el = app.FindElement("{\"Tag\":\"DIV\",\"Se
 tbl = app.ReadDataGrid(el, "A", "SPAN");		
 foreach (var r in tbl.Data)
 	foreach (var c in r)
-		LTools.Workflow.PrimoApp.AddToLog(wf, c);	
+		LTools.Workflow.AstroApp.AddToLog(wf, c);	
 		
 Python
 app = LTools.WebBrowser.BrowserApp.Init(wf, "Free email*", LTools.WebBrowser.Model.BrowserTypes_Short.IE)
@@ -43,7 +43,7 @@ el = app.FindElement("{\"Tag\":\"DIV\",\"SearchFrames\":false,\"Attributes\":[{\
 tbl = app.ReadDataGrid(el, "A", "SPAN")
 for r in tbl.Data:
 	for c in r:
-		LTools.Workflow.PrimoApp.AddToLog(wf, c)
+		LTools.Workflow.AstroApp.AddToLog(wf, c)
 		
 JavaScript
 var app = _lib.LTools.WebBrowser.BrowserApp.Init(wf, "Free email*", _lib.LTools.WebBrowser.Model.BrowserTypes_Short.IE);
@@ -54,5 +54,5 @@ var el = app.FindElement("{\"Tag\":\"DIV\",\"SearchFrames\":false,\"Attributes\"
 tbl = app.ReadDataGrid(el, "A", "SPAN");	
 for (var i = 0; i < tbl.Data.Count; i++)
 	for (var j = 0; j < tbl.Data[i].Count; j++)
-		_lib.LTools.Workflow.PrimoApp.AddToLog(wf, tbl.Data[i][j]);
+		_lib.LTools.Workflow.AstroApp.AddToLog(wf, tbl.Data[i][j]);
 ```
