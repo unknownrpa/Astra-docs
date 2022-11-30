@@ -1,6 +1,6 @@
 # Custom input
 
-![](https://gblobscdn.gitbook.com/assets%2Fprimo-rpa%2F-M-fe71a7oWXLrVv-9kL%2F-M-feFTugXUvuoGIT1BY%2F0.png?generation=1581280463668702\&alt=media)
+![](https://gblobscdn.gitbook.com/assets%2Fastro-rpa%2F-M-fe71a7oWXLrVv-9kL%2F-M-feFTugXUvuoGIT1BY%2F0.png?generation=1581280463668702\&alt=media)
 
 Element that displays the user data entry window.
 
@@ -24,7 +24,7 @@ Example of dialog page:
  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Primo Dialog</title>
+    <title>Astro Dialog</title>
   </head>
   <body>      
           Имя:<br>
