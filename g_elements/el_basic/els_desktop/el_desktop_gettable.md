@@ -36,7 +36,7 @@ LTools.Desktop.Model.DUIControl el = app.FindElement("{\"Name\":\"\",\"Automatio
 tbl = app.ReadDataGrid(el);
 foreach (var r in tbl.Data)
 	foreach (var c in r)
-		LTools.Workflow.PrimoApp.AddToLog(wf, c);
+		LTools.Workflow.AstroApp.AddToLog(wf, c);
 
 Python
 app = LTools.Desktop.DesktopApp.Init(wf, None, "Test_*", 20000, True, LTools.Desktop.Model.DesktopTypes.UIAUTOMATION)
@@ -47,7 +47,7 @@ el = app.FindElement("{\"Name\":\"\",\"AutomationID\":\"dtgrdSample\",\"ClassNam
 tbl = app.ReadDataGrid(el)
 for r in tbl.Data:
 	for c in r:
-		LTools.Workflow.PrimoApp.AddToLog(wf, c)
+		LTools.Workflow.AstroApp.AddToLog(wf, c)
 		
 JavaScript
 var app = _lib.LTools.Desktop.DesktopApp.Init(wf, null, "Test_*", 20000, true, _lib.LTools.Desktop.Model.DesktopTypes.UIAUTOMATION);
@@ -58,5 +58,5 @@ var el = app.FindElement("{\"Name\":\"\",\"AutomationID\":\"dtgrdSample\",\"Clas
 tbl = app.ReadDataGrid(el);
 for (var i = 0; i < tbl.Data.Count; i++)
 	for (var j = 0; j < tbl.Data[i].Count; j++)
-		_lib.LTools.Workflow.PrimoApp.AddToLog(wf, tbl.Data[i][j]);
+		_lib.LTools.Workflow.AstroApp.AddToLog(wf, tbl.Data[i][j]);
 ```
