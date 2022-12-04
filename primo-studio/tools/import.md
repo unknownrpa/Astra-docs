@@ -1,6 +1,6 @@
 # Import
 
-"Import" plugin transformates MS Workflow Foundation project (UiPath for example) into Primo project. To run this tool you need to choose Tools -> Import menu. After that you'll get Import dialog window.
+"Import" plugin transformates MS Workflow Foundation project (UiPath for example) into Astro project. To run this tool you need to choose Tools -> Import menu. After that you'll get Import dialog window.
 
 ![](<../../.gitbook/assets/image (254).png>)
 
