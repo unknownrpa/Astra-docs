@@ -4,7 +4,7 @@ To install unpacked extension:
 
 To install Google Chrome extension:&#x20;
 
-* Put tick in checkbox Unpacked. Click on the Chrome icon in Primo in the File -Settings - Tools - Extensions menu&#x20;
+* Put tick in checkbox Unpacked. Click on the Chrome icon in Astro in the File -Settings - Tools - Extensions menu&#x20;
 * A window for saving the extension file will open. Choose the folder where to save the file
 
 ![](../../../.gitbook/assets/ch1.png)
@@ -30,7 +30,7 @@ To install Google Chrome extension:&#x20;
 
 To install packed extension:
 
-* Remove tick from checkbox Unpacked. Click on the Chrome icon in Primo in the File -Settings - Tools - Extensions menu&#x20;
+* Remove tick from checkbox Unpacked. Click on the Chrome icon in Astro in the File -Settings - Tools - Extensions menu&#x20;
 * A window for saving the extension file will open. Choose the folder where to save the file
 * Next go to your Chrome settings - More Tools - Extensions&#x20;
 * Drag n drop file chrome.crx in Chrome window
