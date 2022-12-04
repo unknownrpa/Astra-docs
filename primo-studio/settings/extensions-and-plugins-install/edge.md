@@ -4,7 +4,7 @@ To install unpacked extension:
 
 To install the Edge extension:&#x20;
 
-* Put tick in Unpacked checkbox. Click the Edge icon in Primo in the Settings - Tools - Extensions menu
+* Put tick in Unpacked checkbox. Click the Edge icon in Astro in the Settings - Tools - Extensions menu
 * Go to Edge Settings - Menu - Extensions&#x20;
 * In opened window click on "Load unpacked".
 
@@ -26,6 +26,6 @@ To install the Edge extension:&#x20;
 
 To install packed extension:
 
-* Remove tick from Unpacked checkbox. Click the Edge icon in Primo in the Settings - Tools - Extensions menu
+* Remove tick from Unpacked checkbox. Click the Edge icon in Astro in the Settings - Tools - Extensions menu
 * Go to Edge Settings - Menu - Extensions&#x20;
 * Drag n drop chrome.crx file into Edge window
