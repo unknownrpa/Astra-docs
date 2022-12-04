@@ -1,6 +1,6 @@
 # Script recording
 
-To simplify scripting, Primo Studio has a feature for recording user actions. The recording can be performed in two variants:
+To simplify scripting, Astro Studio has a feature for recording user actions. The recording can be performed in two variants:
 
 * Web recording
 * Desktop recording
