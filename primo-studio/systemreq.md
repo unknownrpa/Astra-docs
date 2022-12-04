@@ -15,7 +15,7 @@ Hardware requirements:
 | Stand-alone       | 4   | 8   | 100 | Windows 10 / Windows Server 2016 or higher |
 | With Orchestrator | 4   | 8   | 100 | Windows Server 2016 or higher              |
 
-| Оркестратор         | CPU | RAM | HDD  | ОС                                    |
+| Orchestrator        | CPU | RAM | HDD  | ОС                                    |
 | ------------------- | --- | --- | ---- | ------------------------------------- |
 | Orchestrator server | 8   | 16  | 200  | Windows Server 2016 or higher / Linux |
 | DB server           | 8   | 16  | 200  | Windows Server 2016 or higher / Linux |
