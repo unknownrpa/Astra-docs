@@ -1,6 +1,6 @@
 # Software requirements
 
-To run Primo Studio, you need the following:
+To run Studio, you need the following:
 
 * Microsoft Windows 7 and up
 * Microsoft .NET Framework 4.6.1
