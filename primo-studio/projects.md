@@ -1,6 +1,6 @@
 # Working with projects
 
-A project within Primo Studio is a set of script files grouped into folders. The structure of a project is displayed on the Project palette. Within the file system, a project has the following view:
+A project within Astro Studio is a set of script files grouped into folders. The structure of a project is displayed on the Project palette. Within the file system, a project has the following view:
 
 Project folder
 
