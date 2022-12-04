@@ -12,7 +12,7 @@ You may also start debugging from any element. To do so just right-click the des
 
 After pressing the button, an instance of the robot is launched, which will immediately execute the current process. The Console panel is available for viewing process messages.
 
-![](<../../.gitbook/assets/2 (13).png>)
+![](<../../.gitbook/assets/2 (13)_updated.png>)
 
 There are the following buttons on the Console panel.
 
