@@ -4,10 +4,6 @@ Assistant group elements help you creating interactive hints for your Web or Des
 
 Hint window consists of the following:
 
-![](<../../../.gitbook/assets/image (161).png>)
-
-
-
 1. Hint text. May contain text, HTML or web page url;
 2. Hint window;
 3. Hint window border;
