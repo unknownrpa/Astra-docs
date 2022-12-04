@@ -1,6 +1,6 @@
 # Traffic record
 
-The Primo Studio traffic tracking subsystem allows you quickly and easily analyzing the exchange with portals, sites and web services, as well as generating Web requests in scripts based on the data received.
+The Astro Studio traffic tracking subsystem allows you quickly and easily analyzing the exchange with portals, sites and web services, as well as generating Web requests in scripts based on the data received.
 
 The tracking subsystem is represented by the Traffic Capture, Packet Properties and Traffic Filter panels.
 
