@@ -2,8 +2,8 @@
 description: User manual
 ---
 
-# Primo RPA
+# Astro RPA
 
-Welcome to Primo RPA user manual
+Welcome to Astro RPA user manual
 
 ![](.gitbook/assets/Themes.png)
