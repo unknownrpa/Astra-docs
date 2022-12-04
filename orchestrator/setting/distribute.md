@@ -1,6 +1,6 @@
 # Distribute
 
-Distribute tab allows you to operate Primo RPA Robot versions
+Distribute tab allows you to operate Astro RPA Robot versions
 
 ![](<../../.gitbook/assets/image (4).png>)
 
