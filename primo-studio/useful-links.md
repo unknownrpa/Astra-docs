@@ -1,18 +1,14 @@
 # Useful links
 
-Primo RPA web-site
+Astro RPA web-site
 
-{% embed url="http://primo-rpa.ru" %}
+{% embed url="http://astrorpa.com" %}
 
-Primo Academy
+Astro Academy
 
-[https://rondem-s-academy.thinkific.com/](https://rondem-s-academy.thinkific.com/)
+[TBD](https://rondem-s-academy.thinkific.com/)
 
-Wiki in russian
+Training samples
 
-{% embed url="https://rondem.gitbook.io/primo-rpa/" %}
-
-Educational samples
-
-{% embed url="https://github.com/PrimoRPA/Learning" %}
+TBD {% embed url="https://github.com/PrimoRPA/Learning" %}
 
