@@ -17,7 +17,7 @@ Project folder
 
 To create a new project, click the "Create a project" button in the File menu ![](<../.gitbook/assets/0 (26).png>). After clicking the button, the project creation dialog box will appear on the screen.
 
-![](<../.gitbook/assets/1 (41).png>)
+![](<../.gitbook/assets/1 (41)_updated.png>)
 
 In this dialog box you should specify the project name, the path to the folder where the project will be stored and an optional comment. The structure of a new project will be displayed on the Project panel as soon as you click the OK button.
 
