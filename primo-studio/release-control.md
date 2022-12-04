@@ -30,7 +30,7 @@ To cancel all changes made until the last Commit, click the "Undo pending change
 
 In order to compare local version with repository version you should right-click the file in Project tree and choose Show changes menu.
 
-![](<../.gitbook/assets/image (141)_updated.png>)
+![](<../.gitbook/assets/image (141)_update.png>)
 
 "View commits" button is used to roll back to the specified version. To roll back you should select the version, right-click on it and select "Use".&#x20;
 
