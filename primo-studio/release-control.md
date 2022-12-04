@@ -2,7 +2,7 @@
 
 To manage the storage of code versions the system has integration with the Git storage . To manage integration use Project -> Git menu.
 
-To save versiom in Git local storage use Commit menu.
+To save version in Git local storage use Commit menu.
 
 ![](../.gitbook/assets/commit.jpg)
 
