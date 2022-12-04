@@ -2,7 +2,7 @@
 
 To install Opera browser extension:&#x20;
 
-* Click the Opera icon in Primo in the Settings - Tools - Extensions menu&#x20;
+* Click the Opera icon in Astro in the Settings - Tools - Extensions menu&#x20;
 * Opera window will be opened and notification about extension is deactivated will appear
 
 ![](../../../.gitbook/assets/op1.png)
