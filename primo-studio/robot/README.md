@@ -2,7 +2,7 @@
 
 The robot is a standalone application with a minimal graphical interface. ![](<../../.gitbook/assets/0 (82).png>)
 
-![](<../../.gitbook/assets/1 (103).png>) button is used to clear the robot console text.
+![](<../../.gitbook/assets/1 (103)_updated.png>) button is used to clear the robot console text.
 
 There two editions of Robot:
 
