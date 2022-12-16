@@ -2,7 +2,7 @@
 
 In order to work with you code you need to use the code editor in Studio
 
-![](<../.gitbook/assets/image (252).png>)
+![](<../.gitbook/assets/image (252)_new.jpeg>)
 
 Depending on the syntax you've chosen the code rules will differ. For example in C# code you'll automatically get \_\_debug variable for interactions with built-in debugger. Furthermore there are several special rules:
 
