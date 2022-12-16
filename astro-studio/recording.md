@@ -8,11 +8,11 @@ To simplify scripting, Astro Studio has a feature for recording user actions. Th
 
 To start recording, select the desired option in the Process menu or in the Record menu of the Actions panel. 
 
-![](<../.gitbook/assets/recorders.jpeg>)
+![](<../.gitbook/assets/Recorders.jpeg>)
 
 After selecting the Recorder button, the record control window will appear.
 
-![](<../.gitbook/assets/Universal_Recorder.png>)
+![](<../.gitbook/assets/Universal_recorder.png>)
 
 ![](<../.gitbook/assets/1 (26).png>) The "Record" button starts recording a script.
 
@@ -27,10 +27,10 @@ Let us use Universal recorder to record a simple sequence:
 
 Then pause the recording. Universal recorder has captured all these actions: 
 
-![](<../.gitbook/assets/Universal_Recorder_Results.png>)
+![](<../.gitbook/assets/Universal_recorder_results.png>)
 
 Stop the recording and check the sequence created: 
 
-![](<../.gitbook/assets/Recorded_Sequence.png>)
+![](<../.gitbook/assets/Recorded_sequence.png>)
 
 Web interactions are recorded in a similar way.
