@@ -38,6 +38,8 @@ And confirm the start of installation:
 
 ![](<../../.gitbook/assets/Astro_Studio_Install_9.png>)
 
+Windows may ask you to confirm that you allow Astro RPA to make changes on your device. Please confirm. 
+
 The final screen of the Installer informs you that the installation has been completed successfully.
 
 ![](<../../.gitbook/assets/Astro_Studio_Install_10.png>)
@@ -46,17 +48,23 @@ Now you may find the Astro Studio icon on you desktop and launch the application
 
 ![](<../../.gitbook/assets/Astro_Studio_Install_11.png>)
 
-
+There are two design modes available in Astro Studio:
+- Astro Studio Pro - the full design capabilities for professional developers
+- Astro Studio Citizen - the simplified version for citizen developers.
+To experience the full power of Astro RPA platform choose Pro version: 
 
 ![](<../../.gitbook/assets/Astro_Studio_Install_12.png>)
 
-
+Start up screen will show the recent projects and the links to start a new project or open an existing one.
 
 ![](<../../.gitbook/assets/Astro_Studio_Install_13.png>)
 
-
+After closing this screen you reach the main screen of Astro Studio
 
 ![](<../../.gitbook/assets/Astro_Studio_Install_14.png>)
+
+Now you are ready to start building robots on Astro RPA.
+
 
 
 
