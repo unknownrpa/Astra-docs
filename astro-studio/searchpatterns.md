@@ -37,7 +37,7 @@ A search template is a JSON format string containing all the attributes needed f
 
 A template for searching for Desktop elements looks like this.
 
-![](<../.gitbook/assets/0 (49).png>)
+![](<../.gitbook/assets/Search_Template_Desktop.png>)
 
 To add a template element, click ![](<../.gitbook/assets/1 (59).png>) button, then select a new line and enter data in the Name, AutomationID, ClassName, ControlType, LocalizedControlType and Index fields. To refine search, you can enter the names and values of attributes of the sought component in the table (key, value). If you specify several rows, the search for an element in the robotic application will be carried out depthward starting from the uppermost template. For a shorter route select the check box "Quick search".
 
@@ -46,6 +46,8 @@ To delete a template, you can use ![](<../.gitbook/assets/2 (7).png>)button or p
 A template can be generated automatically by clicking the "Select a Component" button ![](<../.gitbook/assets/3 (7).png>) and clicking the sought element in the desired browser window. You may also use quick button on element.
 
 If you click the "Display the Component" button ![](<../.gitbook/assets/4 (9).png>), the control element marked in the current template will be highlighted.
+
+![](<../.gitbook/assets/Indicate_Control.png>)
 
 The "UI Inspector" button ![](<../.gitbook/assets/5 (6).png>) is used to display/hide the interfaces exploring module.
 
