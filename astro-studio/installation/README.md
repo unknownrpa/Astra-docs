@@ -1,8 +1,42 @@
 # Installation and startup
 
-The installation of the Astro Studio application is performed by an installer, which is run by the setup.exe file. In order for Astro Studio to work correctly, it requires Microsoft.NET Framework 4.6.1, which is installed together with the studio.
+The installation of the Astro Studio application is performed by an installer, which is run by the setup.exe file. In order for Astro Studio to work correctly, it requires Microsoft.NET Framework, which is installed together with the studio.
 
-![](<../../.gitbook/assets/0 (64).png>)
+Unpack Astro Studio Community Edition distridution package into a folder and launch setup.exe
+
+![](<../../.gitbook/assets/Astro_Studio_Install_1.png>)
+
+If Windows shows the “Windows protected your PC” window, click More info
+
+![](<../../.gitbook/assets/Astro_Studio_Install_2.png>)
+
+And then “Run anyway”:
+
+![](<../../.gitbook/assets/Astro_Studio_Install_3.png>)
+
+On the installation screen click Next:
+
+![](<../../.gitbook/assets/Astro_Studio_Install_4.png>)
+
+Once the installer is started, the user will see a standard welcome window.
+
+![](<../../.gitbook/assets/Astro_Studio_Install_5.png>)
+
+Review and accept the User License Agreement:
+
+![](<../../.gitbook/assets/Astro_Studio_Install_6.png>)
+
+After clicking Next, the installer will propose to choose a folder to install Astro Studio, as well as the one of the following installation options: for all users of the operating system or only for the current one.
+
+![](<../../.gitbook/assets/Astro_Studio_Install_7.png>)
+
+![](<../../.gitbook/assets/Astro_Studio_Install_8.png>)
+
+![](<../../.gitbook/assets/Astro_Studio_Install_9.png>)
+
+![](<../../.gitbook/assets/Astro_Studio_Install_10.png>)
+
+![](<../../.gitbook/assets/Astro_Studio_Install_11.png>)
 
 ![](<../../.gitbook/assets/1 (12).png>)
 
