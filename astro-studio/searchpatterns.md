@@ -13,7 +13,7 @@ At the moment, the elements of the following categories have search templates:
 
 A template for searching for Browser elements looks like this.
 
-![](<../.gitbook/assets/0 (9).png>)
+![](<../.gitbook/assets/Search_Template_Browser.png>)
 
 To add a template element, you should click ![](<../.gitbook/assets/1 (49).png>) button, then select a new line and enter data in the Tag, Text and Index fields. To refine search, you can enter the names and values of the tag attributes in the table (key, value). If you specify several rows, the search of an element in the browser will be carried out depthward starting from the uppermost template.
 
@@ -25,13 +25,9 @@ If you click the "Display the Component" button![](<../.gitbook/assets/4 (10).pn
 
 The "UI Inspector" button ![](<../.gitbook/assets/5 (8).png>) is used to display/hide the interfaces exploring module.
 
-![](<../.gitbook/assets/6 (4).png>)
-
 In this module you can examine the application structure. Selected elements are moved to a template using ![](<../.gitbook/assets/7 (7).png>) and ![](<../.gitbook/assets/8 (4).png>) buttons.
 
-A search template is a JSON format string containing all the attributes needed for search. A template can be entered manually by switching over to the Text tab.
-
-![](<../.gitbook/assets/9 (8).png>)
+A search template is a JSON format string containing all the attributes needed for search. 
 
 ## Desktop
 
