@@ -18,7 +18,7 @@ The Traffic Capture panel displays, in chronological order, all requests and res
 
 Request and response body text can be found by clicking on the + icon in the request header
 
-![](<../.gitbook/assets/1 (75).png>)
+![](<../.gitbook/assets/1 (75)_new.jpeg>)
 
 To stop recording click the Stop Interception button ![](<../.gitbook/assets/2 (17).png>)
 
@@ -40,7 +40,7 @@ There is information about requests in the upper part of the panel. There is inf
 
 There is the Traffic Filter panel necessary for pre-filtering traffic.
 
-![](<../.gitbook/assets/6 (11).png>)
+![](<../.gitbook/assets/6 (11)_new.jpeg>)
 
 This panel allows:
 
