@@ -1,6 +1,6 @@
 # Take screenshot
 
-![](https://gblobscdn.gitbook.com/assets%2Fprimo-rpa%2F-M-hxUXNOdBhTifh4OEN%2F-M-hxnVNbT3OZVoebQSi%2F0.png?generation=1581319142022829\&alt=media)
+![](https://gblobscdn.gitbook.com/assets%2Fastro-rpa%2F-M-hxUXNOdBhTifh4OEN%2F-M-hxnVNbT3OZVoebQSi%2F0.png?generation=1581319142022829\&alt=media)
 
 Element that makes desktop screenshot. In case you need to take a screenshot of any running process, the Process name should be specified. If you need a screenshot of the entire desktop, leave the Process name blank.
 

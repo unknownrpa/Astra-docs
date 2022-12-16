@@ -2,7 +2,7 @@
 
 ![](<../../../.gitbook/assets/image (62).png>)
 
-![](https://gblobscdn.gitbook.com/assets%2Fprimo-rpa%2F-M-fan2wnyxTCFRJ8Rj7%2F-M-fb21SgrFqtI9v7QkM%2F1.png?generation=1581279621957180\&alt=media)
+![](https://gblobscdn.gitbook.com/assets%2Fastro-rpa%2F-M-fan2wnyxTCFRJ8Rj7%2F-M-fb21SgrFqtI9v7QkM%2F1.png?generation=1581279621957180\&alt=media)
 
 Element that connects to Tesseract OCR core.
 

@@ -16,15 +16,15 @@ Properties
 C#
 List<System.Diagnostics.Process> proc = LTools.Desktop.DesktopApp.GetProcesses(wf, true);
 foreach (var p in proc)
-	LTools.Workflow.PrimoApp.AddToLog(wf, p.ProcessName);
+	LTools.Workflow.astroApp.AddToLog(wf, p.ProcessName);
 	
 Python
 proc = LTools.Desktop.DesktopApp.GetProcesses(wf, True)
 for p in proc:
-	LTools.Workflow.PrimoApp.AddToLog(wf, p.ProcessName)
+	LTools.Workflow.astroApp.AddToLog(wf, p.ProcessName)
 	
 JavaScript
 var proc = _lib.LTools.Desktop.DesktopApp.GetProcesses(wf, true);
 for (var i = 0; i < proc.Count; i++)
-	_lib.LTools.Workflow.PrimoApp.AddToLog(wf, proc[i].ProcessName);
+	_lib.LTools.Workflow.astroApp.AddToLog(wf, proc[i].ProcessName);
 ```

@@ -1,6 +1,6 @@
 # Input dialog
 
-![](https://gblobscdn.gitbook.com/assets%2Fprimo-rpa%2F-M-fdXqldL3jUu7eA\_ZS%2F-M-fdmqSBamgyB2esASh%2F0.png?generation=1581280342085480\&alt=media)
+![](https://gblobscdn.gitbook.com/assets%2Fastro-rpa%2F-M-fdXqldL3jUu7eA\_ZS%2F-M-fdmqSBamgyB2esASh%2F0.png?generation=1581280342085480\&alt=media)
 
 Element that displays the data entry window.
 

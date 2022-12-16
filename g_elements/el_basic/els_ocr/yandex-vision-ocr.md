@@ -2,7 +2,7 @@
 
 ![](<../../../.gitbook/assets/image (93).png>)
 
-![](https://gblobscdn.gitbook.com/assets%2Fprimo-rpa%2F-M-fb5hgZC4boHei6jQF%2F-M-fbK4PjBkkLS\_hLbrS%2F1.png?generation=1581279695805693\&alt=media)
+![](https://gblobscdn.gitbook.com/assets%2Fastro-rpa%2F-M-fb5hgZC4boHei6jQF%2F-M-fbK4PjBkkLS\_hLbrS%2F1.png?generation=1581279695805693\&alt=media)
 
 Element that connects to Yandex Vision OCR core.
 

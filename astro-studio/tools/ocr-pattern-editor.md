@@ -4,7 +4,8 @@ The OCR pattern editor is a plus-in for the studio and is used for developing pa
 
 **Screenshot**
 
-The editor is composed of the following components:
+
+The editor is composed of the following components:
 
 * Main menu
 * The pattern document recognized image
@@ -71,4 +72,4 @@ To configure OCR, you must click the Settings button, after which, in the window
 
 ![](../../.gitbook/assets/bn\_2.JPG)
 
-The selected OCR language must be installed in the operating system (see item description  [Microsoft OCR](https://rondem.gitbook.io/primo-rpa-eng/els\_ocr/microsoft-ocr)).
+The selected OCR language must be installed in the operating system (see item description  [Microsoft OCR](https://rondem.gitbook.io/-rpa-eng/els\_ocr/microsoft-ocr)).

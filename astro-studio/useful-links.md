@@ -10,5 +10,5 @@ Astro Academy
 
 Training samples
 
-TBD {% embed url="https://github.com/PrimoRPA/Learning" %}
+TBD {% embed url="https://github.com/astroRPA/Learning" %}
 

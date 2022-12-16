@@ -12,5 +12,5 @@ Properties
 
 * Enabled: Mock enabled
 
-More info: [https://rondem.gitbook.io/primo-rpa-eng/primo-studio/debug/testing](https://rondem.gitbook.io/primo-rpa-eng/primo-studio/debug/testing)
+More info: [https://rondem.gitbook.io/astro-rpa-eng/astro-studio/debug/testing](https://rondem.gitbook.io/astro-rpa-eng/astro-studio/debug/testing)
 
