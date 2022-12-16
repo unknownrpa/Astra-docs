@@ -4,6 +4,8 @@ The Astro Studio traffic tracking subsystem allows you quickly and easily analyz
 
 The tracking subsystem is represented by the Traffic Capture, Packet Properties and Traffic Filter panels.
 
+![](<../.gitbook/assets/1(74)_new.png>)
+
 The Traffic Capture panel displays, in chronological order, all requests and responses occurring at the user's workplace in real time. To start recording the traffic, you should click the Start capturing button ![](<../.gitbook/assets/0 (122).png>). As soon as you click the button, the panel table will start to display the requests made from your workplace. The table of requests (queries) displays the following data:
 
 * Result: Request event code
