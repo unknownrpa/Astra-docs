@@ -4,7 +4,7 @@ To manage the storage of code versions the system has integration with the Git s
 
 To save version in Git local storage use Commit menu.
 
-![](../.gitbook/assets/commit.jpg)
+![](../.gitbook/assets/commit_new.jpeg)
 
 "Commit" button opens the dialog of the Git local storage selection. "Commit and push" button displays a dialog for selecting remote Git storage (Git, GitHub, TFS, etc.).
 
