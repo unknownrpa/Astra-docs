@@ -1,13 +1,18 @@
 # Script recording
 
-To simplify scripting, Astro Studio has a feature for recording user actions. The recording can be performed in two variants:
+To simplify scripting, Astro Studio has a feature for recording user actions. There are three recorders available:
 
-* Web recording
-* Desktop recording
+* Web recorder
+* Desktop recorder
+* Universal recorder
 
-To start recording, select the desired option in the Process menu or in the Record menu of the Actions panel. After clicking the "Record" button, the record control window will appear.
+To start recording, select the desired option in the Process menu or in the Record menu of the Actions panel. 
 
-![](<../.gitbook/assets/web recorder.png>)
+![](<../.gitbook/assets/recorders.jpeg>)
+
+After selecting the Recorder button, the record control window will appear.
+
+![](<../.gitbook/assets/Universal_Recorder.png>)
 
 ![](<../.gitbook/assets/1 (26).png>) The "Record" button starts recording a script.
 
@@ -15,18 +20,17 @@ To start recording, select the desired option in the Process menu or in the Reco
 
 To delete the action chose it in the list of recorded actions and press the Delete button on the keyboard.&#x20;
 
-When Web-recording a script, the browser selected in Recorder window opens. The final script will include the following actions:
+Let us use Universal recorder to record a simple sequence:
+- Click on Calculator application
+- Click "5 x 3 ="
+- Click on the result screen
 
-Initial transition by URL
+Then pause the recording. Universal recorder has captured all these actions: 
 
-Mouse-click on a page element (the used element is highlighted by a rectangle with the basic data of the selected element).
+![](<../.gitbook/assets/Universal_Recorder_Results.png>)
 
-![](<../.gitbook/assets/3 (6).png>)
+Stop the recording and check the sequence created: 
 
-Entering text into a page element
+![](<../.gitbook/assets/Recorded_Sequence.png>)
 
-![](<../.gitbook/assets/4 (2).png>)
-
-A special element appears for entering text. The end of entering is determined by pressing the Enter key. To cancel the typing, you should press the Escape key.
-
-The desktop script is recorded in a similar way, with the only difference being that it collects text input and clicks of the Windows operating system application elements.
+Web interactions are recorded in a similar way.
