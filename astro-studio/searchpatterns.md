@@ -55,7 +55,4 @@ The "UI Inspector" button ![](<../.gitbook/assets/5 (6).png>) is used to display
 
 In this module you can examine the application structure. Selected elements are moved to a template using ![](<../.gitbook/assets/7 (5).png>) and ![](<../.gitbook/assets/8 (6).png>) buttons.
 
-A search template is a JSON format string containing all the attributes needed for search. A template can be entered manually by switching over to the Text tab.
-
-![](<../.gitbook/assets/9 (3).png>)
 
