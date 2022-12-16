@@ -51,6 +51,7 @@ Now you may find the Astro Studio icon on you desktop and launch the application
 There are two design modes available in Astro Studio:
 - Astro Studio Pro - the full design capabilities for professional developers
 - Astro Studio Citizen - the simplified version for citizen developers.
+
 To experience the full power of Astro RPA platform choose Pro version: 
 
 ![](<../../.gitbook/assets/Astro_Studio_Install_12.png>)
@@ -63,7 +64,7 @@ After closing this screen you reach the main screen of Astro Studio
 
 ![](<../../.gitbook/assets/Astro_Studio_Install_14.png>)
 
-Now you are ready to start building robots on Astro RPA.
+Now you are ready to start building robots on Astro RPA platform.
 
 
 
