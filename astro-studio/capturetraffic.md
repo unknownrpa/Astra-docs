@@ -28,7 +28,7 @@ To clear the list of requests, click the Clear button ![](<../.gitbook/assets/4 
 
 To get more information about a request and a response, you need to select it in the Traffic Capture panel, and then the information about the request will be reflected in the Properties panel of the packet.
 
-![](<../.gitbook/assets/5 (12).png>)
+![](<../.gitbook/assets/5 (12)_new.jpeg>)
 
 There is information about requests in the upper part of the panel. There is information about responses in the lower part of the panel. The information contained in the panel is divided into the following categories:
 
