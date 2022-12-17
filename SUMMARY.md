@@ -42,10 +42,6 @@
 ## Elements <a href="#g_elements" id="g_elements"></a>
 
 * [Base elements](g\_elements/el\_basic/README.md)
-  * [1C](g\_elements/el\_basic/els\_1c/README.md)
-    * [1C (local)](g\_elements/el\_basic/els\_1c/el\_1c\_localdb.md)
-    * [1C (server)](g\_elements/el\_basic/els\_1c/el\_1c\_server.md)
-    * [Execute query](g\_elements/el\_basic/els\_1c/el\_1c\_query.md)
   * [Assistant](g\_elements/el\_basic/assistant/README.md)
     * [Show hint](g\_elements/el\_basic/assistant/el\_assistant\_showhint.md)
   * [Browser](g\_elements/el\_basic/els\_browser/README.md)
