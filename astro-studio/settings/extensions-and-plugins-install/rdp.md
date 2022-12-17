@@ -1,4 +1,4 @@
-# RDP
+# RDP Installation
 
 To install the Remote Desktop plug-in:&#x20;
 
