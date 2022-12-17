@@ -4,7 +4,6 @@
 
 ## Astro Studio
 
-* [Useful links](astro-studio/useful-links.md)
 * [Software requirements](astro-studio/systemreq.md)
 * [Installation and startup](astro-studio/installation/README.md)
     * [Install Chrome extension](astro-studio/settings/extensions-and-plugins-install/chrome.md)
