@@ -46,159 +46,35 @@ On the right side of the screen there is a Properties panel that shows parameter
 
 ![](<../.gitbook/assets/Properties_Panel.png>)
 
-Let us take "Message box" element and drug it into the Main panel in the center of the screen and drop it 
+There is another important section - Variables panel, under the Main panel. It represents and helps to manage variables as well as other important aspects of robot execution. They are described in separate articles. 
+
+![](<../.gitbook/assets/Arguments_Panel.png>)
+
+After we introduced the key panels, let us continue building the first bot. 
+Take "Message box" element and drug it into the Main panel and drop it in the sequence. 
+Then go to the Properties panel, find Text property and type Hello World! 
 
 ![](<../.gitbook/assets/Getting_Started_5.png>)
 
-![](<../.gitbook/assets/Getting_Started_6.png>)
+We've created an element that will show a message box with "Hello World!". However, there is an exclamation sign on the sequence. It means there is an error. 
+
+![](<../.gitbook/assets/Getting_Started_12.png>)
+
+This happens because of the syntax error, in the LOW-CODE mode String type requires text in quotation marks - "Hello World!" You can either add quotes or you may change the mode to simplified NO-CODE mode by clicking on the bottle icon next to Hello World!" text in the Parameters panel. 
 
 ![](<../.gitbook/assets/Getting_Started_7.png>)
 
+The bottle turns green and the error disapears. The robot is ready!  
+
 ![](<../.gitbook/assets/Getting_Started_8.png>)
+
+Now you may click Playback button on the Control panel:
 
 ![](<../.gitbook/assets/Getting_Started_9.png>)
 
+Astro Studio will compile the robot, load necessary resources and execute it. You should see the message window: 
+
 ![](<../.gitbook/assets/Getting_Started_10.png>)
 
+Congratulations, you built your first Astro RPA robot! 
 
-
-File
-
-* New project
-* Open project
-* Save project
-* Recent
-* Close project
-* Settings
-* Exit
-
-Edit
-
-* Find
-* Undo
-* Redo
-* Cut
-* Copy
-* Paste
-
-View
-
-* Project
-* Elements
-* Properties
-* Traffic
-* Traffic pack
-* Traffic filter
-* Smart devices
-* UI explorer
-* SAP explorer
-* Variables
-* Arguments
-* Watch
-* Console
-* Errors
-* Panels Reset
-
-Project
-
-* Pack project
-* Git
-  * Pull
-  * Undo pending changes
-  * Commit
-  * View commits
-  * Branches
-  * Disconnect
-  * Remotes
-
-Process
-
-* Playback
-* Debug
-* Step over
-* Continue
-* Stop
-* Web recorder
-* Desktop recorder
-
-Help
-
-* User manual
-* About
-
-Action Panel
-
-![](<../.gitbook/assets/image (325).png>)
-
-This panels contains the following buttons:
-
-* Save project
-* Find
-* Cut
-* Copy
-* Paste
-* Undo
-* Redo
-* Playback
-* Execution configuration
-* Debug
-* Step over
-* Continue
-* Stop
-* Recorder
-*
-  *
-    * Web recorder
-    * Desktop recorder
-* Remove all breakpoint
-* Remove all ignores
-* Robot edition
-* Add or Remove Buttons
-
-Project Panel
-
-![](<../.gitbook/assets/4 (12).png>)
-
-This panel contains the following buttons։
-
-* New folder
-* Edit item
-* Delete item
-* New process
-* Toolbox
-
-Elements panel
-
-![](<../.gitbook/assets/5 (3).png>)
-
-Main Working Area
-
-![](<../.gitbook/assets/6 (5).png>)
-
-Properties Panel
-
-![](<../.gitbook/assets/7 (10).png>)
-
-Traffic Interception Panel
-
-![](<../.gitbook/assets/8 (1).png>)
-
-Packet Properties Panel
-
-![](<../.gitbook/assets/9 (2).png>)
-
-Traffic Filter Panel
-
-![](<../.gitbook/assets/10 (2).png>)
-
-Smart Devices Panel
-
-![](<../.gitbook/assets/11 (4).png>)
-
-UI Inspector Panel
-
-![](../.gitbook/assets/12.png)
-
-SAP Inspector Panel
-
-**Screenshot**
