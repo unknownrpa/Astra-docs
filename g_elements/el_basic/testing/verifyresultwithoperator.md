@@ -13,5 +13,5 @@ Properties
 * Expression\*: Expression to be verified
 * Operator\*: Verification operator
 
-More info: [https://rondem.gitbook.io/astro-rpa-eng/astro-studio/debug/testing](https://rondem.gitbook.io/astro-rpa-eng/astro-studio/debug/testing)
+More info: [https://astro-rpa.gitbook.io/astro-rpa-user-guide/astro-studio/debug/testing](https://astro-rpa.gitbook.io/astro-rpa-user-guide/astro-studio/debug/testing)
 
