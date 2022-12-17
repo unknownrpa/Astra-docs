@@ -1,10 +1,26 @@
-# Edge
+# Microsoft Edge
 
-To install unpacked extension:
+To enable work with Microsoft Edge browser, you need to install the Astro RPA extension. Here's how to do it.
 
-To install the Edge extension:&#x20;
+In Astro Studio select the File tab in the main menu:To install unpacked extension:
 
-* Put tick in Unpacked checkbox. Click the Edge icon in Astro in the Settings - Tools - Extensions menu
+![](../../../.gitbook/assets/Edge_Install_1.png)
+
+![](../../../.gitbook/assets/Edge_Install_2.png)
+
+![](../../../.gitbook/assets/Edge_Install_3.png)
+
+![](../../../.gitbook/assets/Edge_Install_4.png)
+
+![](../../../.gitbook/assets/Edge_Install_5.png)
+
+![](../../../.gitbook/assets/Edge_Install_6.png)
+
+![](../../../.gitbook/assets/Edge_Install_7.png)
+
+![](../../../.gitbook/assets/Edge_Install_8.png)
+
+Put tick in Unpacked checkbox. Click the Edge icon in Astro in the Settings - Tools - Extensions menu
 * Go to Edge Settings - Menu - Extensions&#x20;
 * In opened window click on "Load unpacked".
 
