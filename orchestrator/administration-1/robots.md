@@ -2,8 +2,6 @@
 
 The Robots page contains information about the robots currently installed on the worker (machines), their name, location, deployment status, current status, project, actions, etc.
 
-![](<../../.gitbook/assets/image (229).png>)
-
 #### Working with the list of Robots.&#x20;
 
 The list of Robots can be sorted by each column by clicking on icon <img src="../../.gitbook/assets/image (130).png" alt="" data-size="line"> .&#x20;
