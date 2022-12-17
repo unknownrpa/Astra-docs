@@ -1,30 +1,42 @@
 # Getting started
 
-After a successful launch, the main welcome window will appear on the screen.
+After a successful launch, the welcome window will appear on the screen.
 
 ![](<../.gitbook/assets/Astro_Studio_Install_13.png>)
 
-From this window you can create a new project, open an existing one or select one of the last projects you have been working with. If the "Show on startup" checkbox is unchecked, this window will no longer appear.
+From this window you can create a new project, open an existing one or select one of the last projects you have been working with. 
+If the "Show on startup" checkbox is unchecked, this window will no longer appear.
 
-After closing the welcome window, the studio window will be available.
+After closing the welcome window, the main Astro Studio window will be available.
 
 ![](<../.gitbook/assets/Astro_Studio_Install_14.png>)
 
-The following components are present in the window:
-
-Application Main Menu
-
-![](<../.gitbook/assets/2 (4).png>)
-
-This menu contains the following items:
+To experience Astro Studio, let us create a simple "Hello World!" robot. 
+Click on "Create project" in the middle of the screen and the project creation window will pop up: 
 
 ![](<../.gitbook/assets/Getting_Started_1.png>)
 
+Type in the project name, for example "My_First_Project":
+
 ![](<../.gitbook/assets/Getting_Started_2.png>)
+
+And click "OK" to create the project.
+Now you can see that the new project was created and you can start buiding your first robot. 
+
+The main Studio window contains multiple panels. Let us review the main ones: 
 
 ![](<../.gitbook/assets/Getting_Started_3.png>)
 
+Project panel helps you navigate the project and its components: libraries, folders and files. In our first project we only one Main.ltw sequence file. 
+
+![](<../.gitbook/assets/Project_Panel.png>)
+
+In the bottom of this area you can switch from Project panel tab to Elements panel. 
+Elements panel contains all the basic scritp building blocks - elements, which you can combine to create your robot. Primo RPA platform includes hundreds prebuilt elements, so to find the right element you may use search. Let us look for "Message box" element:
+
 ![](<../.gitbook/assets/Getting_Started_4.png>)
+
+
 
 ![](<../.gitbook/assets/Getting_Started_5.png>)
 
