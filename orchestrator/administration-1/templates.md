@@ -2,8 +2,6 @@
 
 The "Templates" page provides information about the created templates that can be used to create robots.
 
-![](<../../.gitbook/assets/image (285).png>)
-
 #### **Woking with templates**
 
 The list of templates can be sorted by each column by clicking on the icon <img src="../../.gitbook/assets/image (130).png" alt="" data-size="line"> .&#x20;
