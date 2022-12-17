@@ -7,7 +7,6 @@
 * [Useful links](astro-studio/useful-links.md)
 * [Software requirements](astro-studio/systemreq.md)
 * [Installation and startup](astro-studio/installation/README.md)
-*   * [Extensions and plugins install](astro-studio/settings/extensions-and-plugins-install/README.md)
     * [Chrome](astro-studio/settings/extensions-and-plugins-install/chrome.md)
     * [Edge](astro-studio/settings/extensions-and-plugins-install/edge.md)
     * [RDP](astro-studio/settings/extensions-and-plugins-install/rdp.md)
