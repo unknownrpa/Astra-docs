@@ -12,5 +12,5 @@ Properties
 
 * Enabled: Mock enabled
 
-More info: [https://astro-rpa.gitbook.io/astro-rpa-documentation/astro-studio/debug/testing](https://astro-rpa.gitbook.io/astro-rpa-documentation/astro-studio/debug/testing)
+More info: [https://astro-rpa.gitbook.io/astro-rpa-user-guide/astro-studio/debug/testing](https://astro-rpa.gitbook.io/astro-rpa-user-guide/astro-studio/debug/testing)
 
