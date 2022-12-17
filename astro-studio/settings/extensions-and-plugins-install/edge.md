@@ -11,9 +11,6 @@ In the File window, select Settings:
 ![](../../../.gitbook/assets/Chrome_Install_2.png)
 
 Then in the left menu - Tools -> Extensions:
-
-![](../../../.gitbook/assets/Chrome_Install_2.png)
-
 In the drop-down menu for Edge extension, select Unpacked and then click on the Edge icon.
 
 ![](../../../.gitbook/assets/Edge_Install_1.png)
