@@ -1,4 +1,4 @@
-# Microsoft Edge
+# Microsoft Edge Extension Installation
 
 To enable work with the Microsoft Edge browser, you need to install the Astro RPA extension. Here's how to do it.
 
