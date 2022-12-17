@@ -8,7 +8,7 @@
 * [Software requirements](astro-studio/systemreq.md)
 * [Installation and startup](astro-studio/installation/README.md)
     * [Chrome](astro-studio/settings/extensions-and-plugins-install/chrome.md)
-    * [Edge](astro-studio/settings/extensions-and-plugins-install/edge.md)
+    * [Edge](astro-studio/settings/extensions-and-plugins-install/install-edge-extension.md)
     * [RDP](astro-studio/settings/extensions-and-plugins-install/rdp.md)
 * [Getting started](astro-studio/gettingstarted.md)
     * [Working with projects](astro-studio/projects.md)
