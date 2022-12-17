@@ -1,14 +1,9 @@
 # Useful links
 
-Astro RPA web-site
+Astro RPA web-site: "http://astrorpa.com"
 
-{% embed url="http://astrorpa.com" %}
+Astro RPA LinkedIn page: "https://www.linkedin.com/company/astrorpa"
 
-Astro Academy
-
-[TBD](https://rondem-s-academy.thinkific.com/)
-
-Training samples
 
 TBD {% embed url="https://github.com/astroRPA/Learning" %}
 
