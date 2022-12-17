@@ -6,4 +6,4 @@ description: User manual
 
 Welcome to Astro RPA user manual
 
-![](.gitbook/assets/Themes.png)
+![](.gitbook/assets/astro-rpa-logo-LIGHT.png)
