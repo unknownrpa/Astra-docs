@@ -2,7 +2,8 @@
 
 To enable work with the Chrome browser, you need to install the Astro RPA extension. Here's how to do it. 
 
-Select the File tab in the main menu:
+
+In Astro Studio select the File tab in the main menu:
 
 ![](../../../.gitbook/assets/Chrome_Install_1.png)
 
