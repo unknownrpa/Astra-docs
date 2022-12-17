@@ -27,7 +27,8 @@ The main Studio window contains multiple panels. Let us review the main ones:
 
 ![](<../.gitbook/assets/Getting_Started_3.png>)
 
-Project panel helps you navigate the project and its components: libraries, folders and files. In our first project we only one Main.ltw sequence file. 
+Project panel helps you navigate the project and its components: libraries, folders and files. 
+In our first project we have one Main.ltw sequence file. 
 
 ![](<../.gitbook/assets/Project_Panel.png>)
 
@@ -36,7 +37,16 @@ Elements panel contains all the basic scritp building blocks - elements, which y
 
 ![](<../.gitbook/assets/Getting_Started_4.png>)
 
+In the center you see the Main panel - the primary working area where you design your robot. 
+The panel may contain multiple tabs with individual sequences and workflows for complex automations. 
 
+![](<../.gitbook/assets/Main_Panel.png>)
+
+On the right side of the screen there is a Properties panel that shows parameters of the entire sequence or each selected object on the Main panel. 
+
+![](<../.gitbook/assets/Properties_Panel.png>)
+
+Let us take "Message box" element and drug it into the Main panel in the center of the screen and drop it 
 
 ![](<../.gitbook/assets/Getting_Started_5.png>)
 
