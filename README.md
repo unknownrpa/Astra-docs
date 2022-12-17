@@ -1,5 +1,5 @@
 ---
-description: User manual
+description: User Guide
 ---
 
 # Astro RPA
