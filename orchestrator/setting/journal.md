@@ -24,8 +24,6 @@ To search, you need to set filters (status, execution time, type) and click on t
 
 To reset filters, click on the "Reset Filters" <img src="../../.gitbook/assets/reset filters.JPG" alt="" data-size="original"> button.
 
-![](../../.gitbook/assets/журнал\_настр.JPG)
-
 It is also possible to customize a column set at the user's discretion.&#x20;
 
 To do this, you need to click on the icon <img src="../../.gitbook/assets/шестеренка_1.JPG" alt="" data-size="original"> next to the search bar and check the required columns.
