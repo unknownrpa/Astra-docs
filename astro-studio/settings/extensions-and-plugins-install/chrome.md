@@ -1,4 +1,4 @@
-# Chrome
+# Chrome Extension Installation
 
 To enable work with the Chrome browser, you need to install the Astro RPA extension. Here's how to do it. 
 
