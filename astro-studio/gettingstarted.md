@@ -18,6 +18,10 @@ Application Main Menu
 
 This menu contains the following items:
 
+![](<../.gitbook/assets/Getting_Started_1.png>)
+
+![](<../.gitbook/assets/Getting_Started_2.png>)
+
 File
 
 * New project
