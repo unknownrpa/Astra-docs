@@ -2,8 +2,6 @@
 
 Workers page provides information about the machines on which the robots are installed, IP addresses, administrator name, and so on.
 
-![](<../../.gitbook/assets/image (274).png>)
-
 #### Working with the list of Workers.&#x20;
 
 The list of Workers can be sorted by each column by clicking on the icon <img src="../../.gitbook/assets/image (130).png" alt="" data-size="line"> .&#x20;
