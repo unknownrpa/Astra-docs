@@ -2,8 +2,6 @@
 
 The "Journal" tab provides information about the current robots activity.
 
-![](../../.gitbook/assets/журнал.JPG)
-
 The Log includes information about:
 
 * the robots name,
@@ -14,7 +12,8 @@ The Log includes information about:
 * the robot statuses,
 * the robot types.
 
-**Working with the robot actions list**
+
+**Working with the robot actions list**
 
 The robot actions list can be sorted by each column by clicking on the icon <img src="../../.gitbook/assets/безымянный_1.JPG" alt="" data-size="original"> .
 
@@ -22,7 +21,8 @@ It is possible to search for the robots' actions. Clicking on the icon <img src=
 
 To search, you need to set filters (status, execution time, type) and click on the "Apply filters" <img src="../../.gitbook/assets/примен_фильтр.JPG" alt="" data-size="original"> button.
 
-To reset filters, click on the "Reset Filters" <img src="../../.gitbook/assets/reset filters.JPG" alt="" data-size="original"> button.
+
+To reset filters, click on the "Reset Filters" <img src="../../.gitbook/assets/reset filters.JPG" alt="" data-size="original"> button.
 
 ![](../../.gitbook/assets/журнал\_настр.JPG)
 
