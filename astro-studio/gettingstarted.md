@@ -2,7 +2,7 @@
 
 After a successful launch, the main welcome window will appear on the screen.
 
-![](<../.gitbook/assets/0 (36).png>)
+![](<../.gitbook/assets/Astro_Studio_Install_13.png)
 
 From this window you can create a new project, open an existing one or select one of the last projects you have been working with. If the "Show on startup" checkbox is unchecked, this window will no longer appear.
 
