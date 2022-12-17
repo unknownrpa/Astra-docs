@@ -22,6 +22,24 @@ This menu contains the following items:
 
 ![](<../.gitbook/assets/Getting_Started_2.png>)
 
+![](<../.gitbook/assets/Getting_Started_3.png>)
+
+![](<../.gitbook/assets/Getting_Started_4.png>)
+
+![](<../.gitbook/assets/Getting_Started_5.png>)
+
+![](<../.gitbook/assets/Getting_Started_6.png>)
+
+![](<../.gitbook/assets/Getting_Started_7.png>)
+
+![](<../.gitbook/assets/Getting_Started_8.png>)
+
+![](<../.gitbook/assets/Getting_Started_9.png>)
+
+![](<../.gitbook/assets/Getting_Started_10.png>)
+
+
+
 File
 
 * New project
