@@ -1,5 +1,24 @@
 # Chrome
 
+![](../../../.gitbook/assets/Chrome_Install_1.png)
+
+![](../../../.gitbook/assets/Chrome_Install_2.png)
+
+![](../../../.gitbook/assets/Chrome_Install_3.png)
+
+![](../../../.gitbook/assets/Chrome_Install_4.png)
+
+![](../../../.gitbook/assets/Chrome_Install_5.png)
+
+![](../../../.gitbook/assets/Chrome_Install_6.png)
+
+![](../../../.gitbook/assets/Chrome_Install_7.png)
+
+![](../../../.gitbook/assets/Chrome_Install_8.png)
+
+![](../../../.gitbook/assets/Chrome_Install_9.png)
+
+
 To install unpacked extension:
 
 To install Google Chrome extension:&#x20;
